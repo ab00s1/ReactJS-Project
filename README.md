@@ -7,7 +7,7 @@ Clone the project and enter [npm install > npm run start]
 ### Technology Stack:
 ○ Frontend: React.js for server-side rendering and SEO benefits. Use
 
-  TailwindCSS for styling.
+    TailwindCSS for styling.
   
 ○ Deployment: Use Vercel/Netlify for the front end.
 
